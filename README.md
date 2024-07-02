@@ -25,4 +25,6 @@
 
 ![image](https://github.com/ArretadoLabs/burger-shop-template/assets/165390931/5e4cf720-04b8-4fef-8f68-27b5b3eb10f9)
 
+![image](https://github.com/ArretadoLabs/burger-shop-template/assets/165390931/e2dd687b-18b0-4b88-9489-b1844e432c4d)
+
 ![image](https://github.com/ArretadoLabs/burger-shop-template/assets/165390931/664fdf2a-298a-4646-89d4-c0eeb81d7f12)
